@@ -1,0 +1,69 @@
+Volcano_Name,Last_Eruption,Volcanic_Region,Primary_Landform,Latitude,Longitude
+Dempo,2025 CE,Sunda Volcanic Arc,Composite,-4.016,103.121
+Dieng Volcanic Complex,2025 CE,Sunda Volcanic Arc,Composite,-7.2,109.879
+Dukono,2025 CE,Halmahera Volcanic Arc,Composite,1.6992,127.8783
+Ibu,2025 CE,Halmahera Volcanic Arc,Composite,1.488,127.63
+Lewotobi,2025 CE,Sunda Volcanic Arc,Composite,-8.542,122.775
+Lewotolok,2025 CE,Sunda Volcanic Arc,Composite,-8.274,123.508
+Marapi,2025 CE,Sunda Volcanic Arc,Composite,-0.38,100.474
+Merapi,2025 CE,Sunda Volcanic Arc,Composite,-7.54,110.446
+Semeru,2025 CE,Sunda Volcanic Arc,Composite,-8.108,112.922
+Kerinci,2024 CE,Sunda Volcanic Arc,Composite,-1.697,101.264
+Raung,2024 CE,Sunda Volcanic Arc,Composite,-8.119,114.056
+Ruang,2024 CE,Sangihe Volcanic Arc,Composite,2.3,125.37
+Suoh,2024 CE,Sunda Volcanic Arc,Cluster,-5.25,104.27
+Karangetang,2023 CE,Sangihe Volcanic Arc,Composite,2.781,125.407
+Krakatau,2023 CE,Sunda Volcanic Arc,Caldera,-6.1009,105.4233
+Tengger Caldera,2023 CE,Sunda Volcanic Arc,Composite,-7.942,112.95
+Sangeang Api,2022 CE,Sunda Volcanic Arc,Composite,-8.2,119.07
+Iliwerung,2021 CE,Sunda Volcanic Arc,Composite,-8.532,123.573
+Sinabung,2021 CE,Sunda Volcanic Arc,Composite,3.17,98.392
+Sirung,2021 CE,Sunda Volcanic Arc,Composite,-8.4972,124.1306
+Soputan,2020 CE,Sangihe Volcanic Arc,Composite,1.112,124.737
+Agung,2019 CE,Sunda Volcanic Arc,Composite,-8.343,115.508
+Tangkuban Parahu,2019 CE,Sunda Volcanic Arc,Composite,-6.77,107.6
+Gamalama,2018 CE,Halmahera Volcanic Arc,Composite,0.81,127.3322
+Rinjani,2016 CE,Sunda Volcanic Arc,Composite,-8.42,116.47
+Lokon-Empung,2015 CE,Sangihe Volcanic Arc,Composite,1.358,124.792
+Batu Tara,2015 CE,Sunda Volcanic Arc,Composite,-7.791,123.585
+Kelud,2014 CE,Sunda Volcanic Arc,Composite,-7.935,112.314
+Slamet,2014 CE,Sunda Volcanic Arc,Composite,-7.242,109.208
+Paluweh,2013 CE,Sunda Volcanic Arc,Composite,-8.32,121.708
+Egon,2008 CE,Sunda Volcanic Arc,Composite,-8.676,122.455
+Gamkonora,2007 CE,Halmahera Volcanic Arc,Composite,1.38,127.53
+Talang,2007 CE,Sunda Volcanic Arc,Composite,-0.979,100.681
+Ambang,2005 CE,Sangihe Volcanic Arc,Composite,0.75,124.42
+Awu,2004 CE,Sangihe Volcanic Arc,Composite,3.689,125.447
+Leroboleng,2003 CE,Sunda Volcanic Arc,Composite,-8.365,122.833
+Papandayan,2002 CE,Sunda Volcanic Arc,Composite,-7.32,107.73
+Inielika,2001 CE,Sunda Volcanic Arc,Composite,-8.73,120.98
+Batur,2000 CE,Sunda Volcanic Arc,Caldera,-8.2403,115.3775
+Kaba,2000 CE,Sunda Volcanic Arc,Composite,-3.522,102.615
+Peuet Sague,2000 CE,Sunda Volcanic Arc,Composite,4.903,96.289
+Ijen,1999 CE,Sunda Volcanic Arc,Composite,-8.058,114.242
+Iliboleng,1993 CE,Sunda Volcanic Arc,Composite,-8.342,123.258
+Ranakah,1991 CE,Sunda Volcanic Arc,Cluster,-8.637,120.5302
+Banda Api,1988 CE,Inner Banda Volcanic Arc,Composite,-4.523,129.881
+Kie Besi,1988 CE,Halmahera Volcanic Arc,Composite,0.32,127.4
+Sorikmarapi,1986 CE,Sunda Volcanic Arc,Composite,0.686,99.539
+Galunggung,1984 CE,Sunda Volcanic Arc,Composite,-7.25,108.058
+Colo,1983 CE,Sangihe Volcanic Arc,Composite,-0.162,121.601
+Mahawu,1977 CE,Sangihe Volcanic Arc,Composite,1.352,124.865
+Sundoro,1971 CE,Sunda Volcanic Arc,Composite,-7.302,109.996
+Ebulobo,1969 CE,Sunda Volcanic Arc,Composite,-8.817,121.191
+Iya,1969 CE,Sunda Volcanic Arc,Composite,-8.891,121.641
+Kelimutu,1968 CE,Sunda Volcanic Arc,Composite,-8.77,121.82
+Nila,1968 CE,Inner Banda Volcanic Arc,Composite,-6.73,129.5
+Tambora,1967 CE,Sunda Volcanic Arc,Composite,-8.25,118
+Gede-Pangrango,1957 CE,Sunda Volcanic Arc,Composite,-6.786,106.983
+Arjuno-Welirang,1952 CE,Sunda Volcanic Arc,Composite,-7.733,112.575
+Ciremai,1951 CE,Sunda Volcanic Arc,Composite,-6.895,108.408
+Perbakti-Gagak,1939 CE,Sunda Volcanic Arc,Composite,-6.75,106.675
+Salak,1938 CE,Sunda Volcanic Arc,Composite,-6.716,106.733
+Bur ni Telong,1937 CE,Sunda Volcanic Arc,Composite,4.769,96.821
+Tandikat-Singgalang,1924 CE,Sunda Volcanic Arc,Composite,-0.39,100.331
+Serua,1921 CE,Inner Banda Volcanic Arc,Composite,-6.312,130.017
+Sumbing,1921 CE,Sunda Volcanic Arc,Composite,-7.384,110.07
+Banua Wuhu,1919 CE,Sangihe Volcanic Arc,Composite,3.138,125.491
+Teon,1904 CE,Inner Banda Volcanic Arc,Composite,-6.976,129.144
+Lamongan,1898 CE,Sunda Volcanic Arc,Composite,-7.981,113.341
